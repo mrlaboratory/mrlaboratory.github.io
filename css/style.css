@@ -532,17 +532,17 @@ header.desktop-header-1.light {
   background: #e0e5ec;
 }
 header.desktop-header-1.light .vertical-menu li .nav-link.active {
-  color: #FF4C60;
+  color: #00c6ff;
   text-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
 }
 header.desktop-header-1.light .vertical-menu li a {
   color: #353353;
 }
 header.desktop-header-1.light .vertical-menu li a:hover {
-  color: #FF4C60;
+  color: #00c6ff;
 }
 header.desktop-header-1.light .vertical-menu li i {
-  color: #FF4C60;
+  color: #00c6ff;
 }
 
 header.desktop-header-2 {
@@ -2181,7 +2181,7 @@ body.dark .blog-page-section .blog-single {
   background: #e0e5ec;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #00c6ff;
   position: absolute;
   left: -7px;
   top: 0;
@@ -2193,7 +2193,7 @@ body.dark .blog-page-section .blog-single {
   background: #e0e5ec;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #00c6ff;
   position: absolute;
   left: -7px;
   top: 0;
@@ -2222,7 +2222,7 @@ body.dark .blog-page-section .blog-single {
 .timeline span.line {
   position: absolute;
   width: 1px;
-  background-color: #FF4C60;
+  background-color: #00c6ff;
   top: 30px;
   bottom: 30px;
   left: 34px;
